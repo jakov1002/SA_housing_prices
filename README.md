@@ -1,1 +1,1 @@
-# SA_housing_prices
+I found a dataset on housing prices in the suburbs and cities of the state of South Australia, Australia. I cleaned it, uploaded it into a locally hosted PostgreSQL database and then queried the uploaded dataframe with SQL.
