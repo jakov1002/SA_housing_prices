@@ -4,3 +4,5 @@
 4. Queried the uploaded data with SQL for interesting insights.
 
 I uploaded the dataset in both its raw and clean forms.
+
+*Used my preferred database administration tool's "set as default" option on the corresponding database and schema when writing SQL queries.
